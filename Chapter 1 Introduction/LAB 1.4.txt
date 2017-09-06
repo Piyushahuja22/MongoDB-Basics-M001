@@ -1,0 +1,15 @@
+Q. What is the value type of the year field for documents in the video.movies collection?
+Choose the best answer:
+
+array
+coordinates
+date
+document
+double
+int32
+mixed string and int32
+mixed string and double
+string
+
+ANS.
+int32

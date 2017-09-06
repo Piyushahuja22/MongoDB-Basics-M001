@@ -1,0 +1,13 @@
+Q. Based on the field depicted below, which of the following are true?
+
+Check all that apply:
+
+1.Not all documents in this collection have the same value type for this field.
+2.Most of the documents in this collection contain int32 values for this field.
+3.Some documents in this field have the value type Year
+
+Correct!
+
+ANS.
+1.Not all documents in this collection have the same value type for this field.
+2.Most of the documents in this collection contain int32 values for this field.

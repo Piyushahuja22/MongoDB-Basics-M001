@@ -1,0 +1,13 @@
+Q.Which of statements below best describes the following filter?
+
+{"age":{"$gte":21,"$lt":70}}
+Choose the best answer:
+
+1.Find all documents for which the age field has a value that is >= 21 and <= 70.
+2.Find all documents for which the age field has a value that is either equal to 21 or equal to 70.
+3.Find all documents for which the age field has a value that is >= 21 and < 70.
+4.Find all documents for which the age field is < 70.
+5.None of the above.
+
+ANS.
+3.Find all documents for which the age field has a value that is >= 21 and < 70.

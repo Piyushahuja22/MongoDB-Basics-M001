@@ -1,0 +1,10 @@
+Q. Which of the following count toward your final grade?
+Check all that apply:
+
+1.Quizzes
+2.Labs (also called homework)
+3.Final exam
+
+ANS.
+2.Labs (also called homework)
+3.Final exam

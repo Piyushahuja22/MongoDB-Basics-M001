@@ -1,0 +1,21 @@
+Q. Which of the following data types are directly supported by JSON per the JSON spec?
+Check all that apply:
+
+String
+Array
+Object
+Boolean values (true and false)
+Floating-point number
+Null
+Pointer
+Date
+Graph
+Decimal number
+
+ANS.
+String
+Array
+Object
+Boolean values (true and false)
+Floating-point number
+Null
