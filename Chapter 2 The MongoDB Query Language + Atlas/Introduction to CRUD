@@ -1,0 +1,19 @@
+Q. Which of the following operations will we focus on in our coverage of the MongoDB query language?
+Check all that apply:
+
+create
+read
+update
+delete
+redact
+review
+unlink
+decipher
+copy
+
+ANS.
+
+create
+read
+update
+delete
