@@ -1,0 +1,12 @@
+Q.  When connecting to an Atlas cluster using the shell, why do we provide the hostnames for all nodes when we launch mongo? Choose the best answer from the choices below.
+Choose the best answer:
+
+--So that if the primary node goes down, the shell can connect to other nodes in the cluster instead
+--There really isn't a good reason
+--To make it possible for all the nodes to communicate with each other
+--Because our authentication credentials are not stored on the primary, but on other nodes in our cluster.
+--So that other nodes in the cluster can contact our client, if necessary
+
+ANS.
+
+So that if the primary node goes down, the shell can connect to other nodes in the cluster instead
