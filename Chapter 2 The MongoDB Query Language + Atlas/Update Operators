@@ -1,0 +1,10 @@
+Q. Which of the following best describes the purpose of update operators?
+Choose the best answer:
+
+To identify fields to be updated in matching documents.
+To specify how one or more fields should be modified in matching documents.
+To replace matching documents in update operations.
+As filters to identify documents that should be updated.
+
+ANS.
+To specify how one or more fields should be modified in matching documents.
