@@ -1,0 +1,11 @@
+Q. Connect to our class Atlas cluster from Compass and view the citybike.trips collection. Use the schema view and any filters you feel are necessary to determine the range of values for the usertype field. Which of the following are values found in this collection for the field usertype?
+Check all that apply:
+"Customer"
+"Subscriber"
+null
+"Anonymous"
+"Pay As You Go"
+
+ANS.
+"Customer"
+"Subscriber"

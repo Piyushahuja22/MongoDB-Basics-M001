@@ -1,0 +1,15 @@
+Q. Please connect to the M001 class Atlas cluster. You may answer this question using either the mongo shell or Compass.
+
+For this question we will use the citibike database.
+
+How many documents in the citibike.trips collection have the key tripduration set to null? Ignore any documents that do not contain the tripduration key.
+
+Choose the best answer:
+2
+3
+11
+47
+114
+
+ANS.
+2

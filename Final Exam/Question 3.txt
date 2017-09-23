@@ -1,0 +1,11 @@
+Q. Connect to the M001 class Atlas cluster from Compass and view the 100YWeatherSmall.data collection. What is the value type of the "wind.speed.rate" field?
+Choose the best answer:
+
+double
+int32
+document
+array
+string
+
+ANS.
+double

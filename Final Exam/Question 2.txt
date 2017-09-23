@@ -1,0 +1,11 @@
+Q. Connect to our class Atlas cluster from Compass and view the 100YWeatherSmall.data collection. Using the Schema view, explore the wind field. The wind field has the value type of document. Which of the following best describes the schema of this embedded document?
+Choose the best answer:
+
+Three fields -- two with the value type "document", one with the value type "string"
+Two fields -- both with the value type "document"
+Three fields -- all with the value type "document"
+Two fields -- one field with the value type "string", one with a value type of "document"
+Three fields -- two with the value type "string", one with the value type of "int32"
+
+ANS.
+Three fields -- two with the value type "document", one with the value type "string"
