@@ -1,0 +1,10 @@
+Using the $in operator, filter the video.movieDetails collection to determine how many movies list either "Ethan Coen" or "Joel Coen" among their writers. Your filter should match all movies that list either of the Coen brothers as writers regardless of how many other writers are also listed. Select the number of movies matching this filter from the choices below.
+Check all that apply:
+0
+3
+7
+12
+16
+
+ANS.
+3

@@ -1,0 +1,10 @@
+Q. Connect to our class Atlas cluster from the mongo shell or Compass and view the 100YWeatherSmall.data collection. How many documents in this collection contain exactly two elements in the sections array field?
+Choose the best answer:
+114
+670
+2656
+10700
+25678
+
+ANS.
+2656

@@ -1,0 +1,10 @@
+Q. Connect to our class Atlas cluster from the mongo shell or Compass and answer the following question. How many documents in the 100YWeatherSmall.data collection do NOT contain the key atmosphericPressureChange.
+Choose the best answer:
+1
+2679
+10345
+33989
+40668
+
+ANS.
+40668

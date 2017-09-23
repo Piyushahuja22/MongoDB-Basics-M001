@@ -1,0 +1,11 @@
+Q. How many documents in the results.surveys collection contain a score of 7 for the product, "abc"?
+
+Choose the best answer:
+35
+124
+172
+220
+301
+
+ANS.
+124

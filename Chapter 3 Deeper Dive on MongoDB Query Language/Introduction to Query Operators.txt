@@ -1,0 +1,12 @@
+Q. For which CRUD operations can one use the query operators we will discuss in this chapter?
+Check all that apply:
+Create
+Read
+Update
+Delete
+
+ANS.
+Create
+Read
+Update
+Delete
